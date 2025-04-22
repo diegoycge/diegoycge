@@ -1,6 +1,8 @@
-Hi, I’m @diegoycge - political science student at Duke interested in using data analysis, visualization and statistical methods to supplement theoretical and critical understand contemporary political problems of our times. 
+Hi, I’m @diegoycge - political science student at Duke University.
 
-Get in touch with me at `me[at]diegoyc[dot]com` or Signal at @diego.81 !
+Personal website: https://diegoyc.com
+
+Get in touch with me at `diego.ge@proton.me` or Signal at @diego.81 !
 
 <!---
 diegoycge/diegoycge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
